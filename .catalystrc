@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "4466000000013001",
+      "name": "backendnotifications",
+      "domain": {
+        "id": "50021558435",
+        "name": "backendnotifications-60030201549.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "60030201549",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
